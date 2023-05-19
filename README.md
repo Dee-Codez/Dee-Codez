@@ -16,9 +16,9 @@
 </br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DebsPats44&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DebsPats44&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DebsPats44&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Dee-Codez&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dee-Codez&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dee-Codez&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </br>
 
 ## 🏆 GitHub Trophies
