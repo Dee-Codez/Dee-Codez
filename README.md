@@ -28,9 +28,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </br>
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=DebsPats44&icon=0&color=3)](https://visitcount.itsvg.in)
 
